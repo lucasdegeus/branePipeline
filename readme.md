@@ -20,3 +20,5 @@ If all packages are imported, an example pipeline is given in pipeline.ipynb.
 By running the cells of the notebook the pipeline is demonstrated.
 
 It uses the provided csv file that contains 255 tweets and the location where they were tweeted from. This raw data is converted to a map of the world, showing the mean sentiment of tweets from each country. In case no data is present for a country, it is greyed out.
+
+Please note that the package Location required API-keys. On https://www.geonames.org/login one can create a new account and a key that can be used.
